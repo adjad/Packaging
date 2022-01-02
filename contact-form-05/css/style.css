@@ -134,11 +134,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #007bff;
+  color: white;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #0056b3;
+    color: white;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -8146,7 +8146,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #e3b04b; }
+  color: white; }
   a:hover, a:focus {
     text-decoration: none !important;
     outline: none !important;
