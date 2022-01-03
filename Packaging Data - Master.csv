@@ -1,0 +1,16 @@
+No.,Name,EF Rating,Fragile Rating,Cost ($),Dim - Length,Dim - Width,Dim - Height,Weight Capacity (LBs)
+1,Cardboard Box1,6,7,2.5,8,10,2,10
+2,Cardboard Box2,6,7,2.5,16,12,12,15
+3,Cardboard Box3,6,7,2.5,18,16,18,20
+4,Cardboard Box4,6,7,2.5,18,18,24,25
+5,Cardboard Box5,6,7,2.5,24,20,24,40
+6,Paperboard Box1,8,5,2,9,9,2,8
+7,Paperboard Box2,8,5,2,16,12,12,12
+8,Paperboard Box3,8,5,2,18,16,18,16
+9,Paperboard Box4,8,5,2,18,18,24,20
+10,Paperboard Box5,8,5,2,24,20,24,30
+11,Plastic Pouch1,3,1,0.6,4,6,2,5
+12,Plastic Pouch2,3,1,0.6,6,7,2,8
+13,Plastic Pouch3,3,1,0.6,7,11,4,15
+14,Paper Pouch1,8,3,0.3,4,1,6,3
+15,Paper Pouch2,8,3,0.3,5,1,6,5
