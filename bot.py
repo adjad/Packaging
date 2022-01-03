@@ -65,4 +65,4 @@ probability_model = tf.keras.Sequential([model,
 predictions = probability_model.predict(datatest)
 print(np.argmax(predictions[0]))
 print(labelstest[0])
-model.save('the_model')
+#model.save('the_model')
